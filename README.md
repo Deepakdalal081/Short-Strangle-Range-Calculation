@@ -23,10 +23,9 @@ ABB.NS will remain in 1543.27 -- 1678.42<br/>
 ABB.NS will remain in 1410.12 -- 1811.57<br/>
 
 
-**Based on this data, a short strangle strategy can be considered.<br/> 
-This involves selling both a call and a put option at different strike prices<br/> 
-within the 65% or 95% confidence intervals. <br/>
-The specific range and risk tolerance depend on the individual trader's preferences and market outlook.** <br/>
+**Short Strangle Strategy**.<br/> 
+This involves selling both a call and a put option at different strike prices within the 65% or 95% confidence intervals. <br/>
+The specific range and risk tolerance depend on the individual trader's preferences and market outlook. <br/>
 
 **Author**<br/>
 
