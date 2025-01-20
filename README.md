@@ -1,6 +1,6 @@
-##**Stock Price Range Analysis**<br/>
+**Stock Price Range Analysis**<br/>
 ##
-**This Python script analyzes the historical price ranges of selected stocks using Yahoo Finance data.<br/>
+This Python script analyzes the historical price ranges of selected stocks using Yahoo Finance data.<br/>
 It calculates the 65% and 95% confidence intervals for future stock prices based on historical daily returns.<br/>
 ##
 
@@ -22,6 +22,11 @@ ABB.NS will remain in 1543.27 -- 1678.42<br/>
 95% chance stock will remain in this range:<br/>
 ABB.NS will remain in 1410.12 -- 1811.57<br/>
 
+
+**Based on this data, a short strangle strategy can be considered.<br/> 
+This involves selling both a call and a put option at different strike prices<br/> 
+within the 65% or 95% confidence intervals. <br/>
+The specific range and risk tolerance depend on the individual trader's preferences and market outlook.** <br/>
 
 **Author**<br/>
 
